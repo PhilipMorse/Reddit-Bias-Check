@@ -1,0 +1,32 @@
+{
+  "subreddit": "politics",
+  "time_filter": "month",
+  "count": 50,
+  "datetime": "1565814698",
+  "article_count": {
+    "left": 18,
+    "leftcenter": 28,
+    "center": 0,
+    "right-center": 1,
+    "right": 0,
+    "pro-science": 0,
+    "conspiracy": 0,
+    "fake-news": 0,
+    "satire": 0,
+    "user-submitted": 0,
+    "unknown": 3
+  },
+  "upvote_count": {
+    "left": 952027,
+    "leftcenter": 1459832,
+    "center": 0,
+    "right-center": 59453,
+    "right": 0,
+    "pro-science": 0,
+    "conspiracy": 0,
+    "fake-news": 0,
+    "satire": 0,
+    "user-submitted": 0,
+    "unknown": 160974
+  }
+}

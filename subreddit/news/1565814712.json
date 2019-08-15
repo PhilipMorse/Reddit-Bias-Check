@@ -1,0 +1,32 @@
+{
+  "subreddit": "news",
+  "time_filter": "month",
+  "count": 50,
+  "datetime": "1565814712",
+  "article_count": {
+    "left": 7,
+    "leftcenter": 24,
+    "center": 4,
+    "right-center": 1,
+    "right": 0,
+    "pro-science": 0,
+    "conspiracy": 0,
+    "fake-news": 0,
+    "satire": 0,
+    "user-submitted": 0,
+    "unknown": 14
+  },
+  "upvote_count": {
+    "left": 401477,
+    "leftcenter": 1410144,
+    "center": 230477,
+    "right-center": 42102,
+    "right": 0,
+    "pro-science": 0,
+    "conspiracy": 0,
+    "fake-news": 0,
+    "satire": 0,
+    "user-submitted": 0,
+    "unknown": 664578
+  }
+}

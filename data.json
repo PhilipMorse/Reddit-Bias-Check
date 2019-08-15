@@ -1,0 +1,249 @@
+{
+  "subreddit": "the_donald",
+  "time_filter": "month",
+  "count": 50,
+  "datetime": "2019-08-13 22:40:14.587911",
+  "article_count": {
+    "left": 0,
+    "leftcenter": 1,
+    "center": 0,
+    "right-center": 1,
+    "right": 1,
+    "pro-science": 0,
+    "conspiracy": 0,
+    "fake-news": 2,
+    "satire": 0,
+    "user-submitted": 42,
+    "unknown": 3
+  },
+  "upvote_count": {
+    "left": 0,
+    "leftcenter": 9133,
+    "center": 0,
+    "right-center": 10100,
+    "right": 9225,
+    "pro-science": 0,
+    "conspiracy": 0,
+    "fake-news": 16517,
+    "satire": 0,
+    "user-submitted": 376707,
+    "unknown": 27254
+  }
+}{
+  "subreddit": "news",
+  "time_filter": "month",
+  "count": 50,
+  "datetime": "2019-08-13 22:40:15.157172",
+  "article_count": {
+    "left": 8,
+    "leftcenter": 24,
+    "center": 3,
+    "right-center": 1,
+    "right": 0,
+    "pro-science": 0,
+    "conspiracy": 0,
+    "fake-news": 0,
+    "satire": 0,
+    "user-submitted": 0,
+    "unknown": 14
+  },
+  "upvote_count": {
+    "left": 438592,
+    "leftcenter": 1409521,
+    "center": 180709,
+    "right-center": 42092,
+    "right": 0,
+    "pro-science": 0,
+    "conspiracy": 0,
+    "fake-news": 0,
+    "satire": 0,
+    "user-submitted": 0,
+    "unknown": 655409
+  }
+}{
+  "subreddit": "worldnews",
+  "time_filter": "month",
+  "count": 50,
+  "datetime": "2019-08-13 22:40:16.723779",
+  "article_count": {
+    "left": 9,
+    "leftcenter": 27,
+    "center": 6,
+    "right-center": 1,
+    "right": 0,
+    "pro-science": 1,
+    "conspiracy": 0,
+    "fake-news": 1,
+    "satire": 0,
+    "user-submitted": 0,
+    "unknown": 5
+  },
+  "upvote_count": {
+    "left": 565335,
+    "leftcenter": 1668466,
+    "center": 310609,
+    "right-center": 44760,
+    "right": 0,
+    "pro-science": 57126,
+    "conspiracy": 0,
+    "fake-news": 65823,
+    "satire": 0,
+    "user-submitted": 0,
+    "unknown": 325330
+  }
+}{
+  "subreddit": "politics",
+  "time_filter": "month",
+  "count": 50,
+  "datetime": "2019-08-13 22:40:18.498605",
+  "article_count": {
+    "left": 18,
+    "leftcenter": 27,
+    "center": 0,
+    "right-center": 1,
+    "right": 0,
+    "pro-science": 0,
+    "conspiracy": 0,
+    "fake-news": 0,
+    "satire": 0,
+    "user-submitted": 0,
+    "unknown": 4
+  },
+  "upvote_count": {
+    "left": 951900,
+    "leftcenter": 1408755,
+    "center": 0,
+    "right-center": 59445,
+    "right": 0,
+    "pro-science": 0,
+    "conspiracy": 0,
+    "fake-news": 0,
+    "satire": 0,
+    "user-submitted": 0,
+    "unknown": 209257
+  }
+}{
+  "subreddit": "the_donald",
+  "time_filter": "month",
+  "count": 50,
+  "datetime": "2019-08-13 22:41:46.995517",
+  "article_count": {
+    "left": 0,
+    "leftcenter": 1,
+    "center": 0,
+    "right-center": 1,
+    "right": 1,
+    "pro-science": 0,
+    "conspiracy": 0,
+    "fake-news": 2,
+    "satire": 0,
+    "user-submitted": 42,
+    "unknown": 3
+  },
+  "upvote_count": {
+    "left": 0,
+    "leftcenter": 9135,
+    "center": 0,
+    "right-center": 10094,
+    "right": 9223,
+    "pro-science": 0,
+    "conspiracy": 0,
+    "fake-news": 16504,
+    "satire": 0,
+    "user-submitted": 376699,
+    "unknown": 27260
+  }
+}{
+  "subreddit": "news",
+  "time_filter": "month",
+  "count": 50,
+  "datetime": "2019-08-13 22:41:48.387219",
+  "article_count": {
+    "left": 8,
+    "leftcenter": 24,
+    "center": 3,
+    "right-center": 1,
+    "right": 0,
+    "pro-science": 0,
+    "conspiracy": 0,
+    "fake-news": 0,
+    "satire": 0,
+    "user-submitted": 0,
+    "unknown": 14
+  },
+  "upvote_count": {
+    "left": 438581,
+    "leftcenter": 1409527,
+    "center": 180727,
+    "right-center": 42095,
+    "right": 0,
+    "pro-science": 0,
+    "conspiracy": 0,
+    "fake-news": 0,
+    "satire": 0,
+    "user-submitted": 0,
+    "unknown": 655376
+  }
+}{
+  "subreddit": "worldnews",
+  "time_filter": "month",
+  "count": 50,
+  "datetime": "2019-08-13 22:41:49.804392",
+  "article_count": {
+    "left": 9,
+    "leftcenter": 27,
+    "center": 6,
+    "right-center": 1,
+    "right": 0,
+    "pro-science": 1,
+    "conspiracy": 0,
+    "fake-news": 1,
+    "satire": 0,
+    "user-submitted": 0,
+    "unknown": 5
+  },
+  "upvote_count": {
+    "left": 565345,
+    "leftcenter": 1668450,
+    "center": 310632,
+    "right-center": 44764,
+    "right": 0,
+    "pro-science": 57115,
+    "conspiracy": 0,
+    "fake-news": 65827,
+    "satire": 0,
+    "user-submitted": 0,
+    "unknown": 325327
+  }
+}{
+  "subreddit": "politics",
+  "time_filter": "month",
+  "count": 50,
+  "datetime": "2019-08-13 22:41:51.476515",
+  "article_count": {
+    "left": 18,
+    "leftcenter": 27,
+    "center": 0,
+    "right-center": 1,
+    "right": 0,
+    "pro-science": 0,
+    "conspiracy": 0,
+    "fake-news": 0,
+    "satire": 0,
+    "user-submitted": 0,
+    "unknown": 4
+  },
+  "upvote_count": {
+    "left": 951886,
+    "leftcenter": 1408735,
+    "center": 0,
+    "right-center": 59445,
+    "right": 0,
+    "pro-science": 0,
+    "conspiracy": 0,
+    "fake-news": 0,
+    "satire": 0,
+    "user-submitted": 0,
+    "unknown": 209241
+  }
+}

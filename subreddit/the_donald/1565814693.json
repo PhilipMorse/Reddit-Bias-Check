@@ -1,0 +1,32 @@
+{
+  "subreddit": "the_donald",
+  "time_filter": "month",
+  "count": 50,
+  "datetime": "1565814693",
+  "article_count": {
+    "left": 0,
+    "leftcenter": 1,
+    "center": 0,
+    "right-center": 1,
+    "right": 1,
+    "pro-science": 0,
+    "conspiracy": 0,
+    "fake-news": 2,
+    "satire": 0,
+    "user-submitted": 42,
+    "unknown": 3
+  },
+  "upvote_count": {
+    "left": 0,
+    "leftcenter": 9125,
+    "center": 0,
+    "right-center": 10105,
+    "right": 9228,
+    "pro-science": 0,
+    "conspiracy": 0,
+    "fake-news": 16508,
+    "satire": 0,
+    "user-submitted": 376953,
+    "unknown": 27262
+  }
+}
