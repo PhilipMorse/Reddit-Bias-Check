@@ -1,0 +1,60 @@
+{'nbcphiladelphia.com', 'doc.ks.gov', 'thespun.com', 'abc7news.com', 'justice.gov', 'news.bloomberglaw.com', 'awionline.org', 'mdjonline.com', 'en.qantara.de', 'media.pa.gov', 'nbcsandiego.com', 'm.metrotimes.com', 'kake.com', 'homernews.com', 'wsfa.com'}
+{'xinhuanet.com', 'hongkongfp.com', 'sverigesradio.se', 'unian.info', 'mobileworldlive.com', 'ahvalnews.com', 'mynation.com'}
+{'wmur.com', 'huffpost.com', 'abc7ny.com'}
+{'youtu.be', 'wjla.com'}
+{'fighterjetsworld.com'}
+{'dailyradiogk.com', 'semanticscholar.org', 'youtu.be', 'fintechnews.sg', 'geekwire.com'}
+{'stockmarketnews.today', 'oftwominds.com', 'cep.lse.ac.uk', 'livemint.com', 'borgenproject.org', 'alt-m.org', 'forexlive.com', 'ilsciences.org', 'moneymaven.io', 'osf.io', 'ecb.europa.eu', 'institutionalinvestor.com'}
+{'thedailyshitter.com', 'fox6now.com', 'gothamist.com', 'thefirearmblog.com', 'youtu.be', 'concealednation.org', 'fox13now.com', 'google.com'}
+{'google.com', 'explainlife.com', 'saraacarter.com', 'boston.com'}
+{'bernie.substack.com', 'laprogressive.com', 'youtu.be', 'millennialreview.org'}
+{'democracyjournal.org', 'boxden.com'}
+{'investors.overstock.com'}
+{'musicinminnesota.com', 'fox35orlando.com', 'kwtx.com', 'eenews.net', 'nbcwashington.com', 'ky3.com', 'wftv.com', 'kbzk.com', 'whio.com', 'nbcbayarea.com', 'wtoc.com', 'fox2now.com', 'fox17.com', 'foxbusiness.com', 'kvia.com'}
+{'hongkongfp.com', 'theweek.in', 'huffpost.com'}
+set()
+{'saraacarter.com', 'justice.gov', '6abc.com'}
+{'streamable.com'}
+{'barrons.com', 'livekindly.com', 'pymnts.com', 'stockmarketnews.today', 'transparenttraders.me', 'questbuzz.com', 'tsheets.com', 'geekwire.com', 'wsbtv.com', 'pv-magazine-usa.com', 'foxbusiness.com', 'english.cw.com.tw'}
+{'tvo.org', 'google.com', 'wnycstudios.org', 'rechargenews.com', 'upi.com', 'questbuzz.com', 'modernfarmer.com', 'voxeu.org', 'thestreet.com'}
+{'gothamist.com', 'youtu.be'}
+{'ust.chatango.com', 'speechable.s3.amazonaws.com', 'google.de'}
+{'poll.democracyforamerica.com', 'youtu.be', 'm.dailykos.com'}
+{'hatchmag.com', 'politico.eu', 'huffpost.com', 'politicalresearch.org', 'store.kydemocrats.org', 'stoehr.substack.com'}
+{'lawandcrime.com'}
+{'eenews.net', 'kvia.com', 'wftv.com', 'abc7.com', 'fox2now.com', 'ky3.com', 'kwtx.com', 'money.com', 'kbzk.com', 'nbcsandiego.com', 'nbcphiladelphia.com', 'press-citizen.com', 'wtap.com', 'wlos.com', 'fox17.com', 'whio.com', 'local10.com', 'abc7chicago.com', '6abc.com', 'nbcbayarea.com', 'abc7news.com', 'foxbusiness.com', 'fox35orlando.com', 'wtoc.com', 'musicinminnesota.com', 'nbcwashington.com', 'nbcchicago.com'}
+{'soranews24.com', 'asiatimes.com', 'theweek.in', 'thestatesman.com', 'news.rthk.hk', 'sverigesradio.se', 'huffpost.com', 'themindunleashed.com', 'hongkongfp.com', 'xinhuanet.com', 'news.northwestern.edu', 'en.radiofarda.com', 'channelnewsasia.com'}
+{'wkms.org', 'abc7ny.com', 'wnky.com', 'thenation.com'}
+{'home.treasury.gov', 'cdn.discordapp.com', 'saraacarter.com', '6abc.com', 'justice.gov'}
+{'mydaughtersarmy.org', 'streamable.com', 'newswave101.com'}
+{'baylor.edu', 'geekwire.com', 'questbuzz.com', 'theeconomyclub.com', 'livekindly.com', 'nosh.com', 'resilience360.dhl.com', 'wsbtv.com', 'channelnewsasia.com', 'stockmarketnews.today', 'transparenttraders.me', 'pymnts.com', 'english.cw.com.tw', 'tsheets.com', 'barrons.com', 'pv-magazine-usa.com', 'kiaora.co', 'foxbusiness.com'}
+{'google.com', 'questbuzz.com', 'rechargenews.com', 'ponderwall.com', 'modernfarmer.com', 'voxeu.org', 'amp.timesrecordnews.com', 'calcalistech.com', 'phila3-0.org', 'stockmarketnews.today', 'beincrypto.com', 'tvo.org', 'thestreet.com', 'wnycstudios.org', 'wetradehq.com', 'upi.com'}
+{'gothamist.com', 'youtu.be', 'pbs.twimg.com'}
+{'google.com', 'thenationalsentinel.com', 'google.de', 'speechable.s3.amazonaws.com', 'pcmdnews.com', 't.me', 'ust.chatango.com', 'metrovoicenews.com', 'politicallydc.com'}
+{'m.dailykos.com', 'youtu.be', 'poll.democracyforamerica.com'}
+{'politicalresearch.org', 'jimheath.tv', 'politico.eu', 'speaker.gov', 'store.kydemocrats.org', 'fool.com', 'exposedbycmd.org', 'remezcla.com', 'khn.org', 'huffpost.com', 'outsideonline.com', 'govtrackinsider.com', 'comicbook.com', 'actionnetwork.org', 'hatchmag.com', 'stoehr.substack.com'}
+{'huffpost.com', 'lawandcrime.com'}
+{'wtkr.com', 'cordcuttersnews.com', 'archpaper.com', 'prnewswire.com', 'lbpost.com', 'movieweb.com', 'billboard.com', 'thisisinsider.com', 'fox5dc.com', 'abc15.com', 'kbzk.com', 'abc13.com', 'wtop.com', 'eurogamer.net', 'usmagazine.com', 'fox32chicago.com', 'nbcdfw.com', 'abc7chicago.com', 'fox46charlotte.com', 'nbc12.com', 'comicbook.com', 'wapo.st', 'wusa9.com', 'abcn.ws', 'cbs46.com', 'hawaiinewsnow.com', 'pagesix.com', 'google.fi', 'themarijuanaherald.com'}
+{'pcgamer.com', 'med.stanford.edu', 'en.rfi.fr', 'nextshark.com', 'channel4.com', 'hongkongfp.com', 'ecohustler.com', 'panamapapers.sueddeutsche.de', 'blog.mozilla.org', 'newsbreakinglive.com', 'dhakatribune.com', 'indiatoday.in'}
+{'lawandcrime.com', 'khq.com', 'nbcsandiego.com', 'resistancereport.com'}
+{'i.sli.mg', 'pbs.twimg.com', 'i.imgflip.com', 'i.redditmedia.com', 'archive.is', 'i.reddituploads.com'}
+{'actions.sumofus.org', 'bloomsmag.com', 'reddit.com', 'additionalimg.online', 'imgoat.com', 'worights.cf', 'm.dailykos.com'}
+{'topclassactions.com', 'thedailyshow.com', 'pbs.twimg.com', 'en.m.wikipedia.org', 'reddit.com', 'fool.com', 'fiscalpost.com', 'no-patents-on-seeds.org', 'cache.gawker.com', 'foxbusiness.com', 'nrn.com', 'digit.fyi', 'blog.twinstate.com', 'mobile.businessweek.com', 'ibtimes.sg', 'blogmaverick.com', 'techinasia.com', 'businesswire.com', 'bigpicture.typepad.com', 'thepiratebay.org', 'ponderwall.com'}
+{'wnycstudios.org', 'thenewsrep.com', 'tvo.org', 'politico.eu', 'finlandtoday.fi', 'athenahealth.com', 'jama.jamanetwork.com', 'wcnc.com', 'sbeconomic.com', 'fiscalpost.com', 'msutoday.msu.edu'}
+{'pbs.twimg.com', 'tvovie.com', 'gothamist.com', 'files.explosm.net', 'i.redditmedia.com', 'reddit.com', 'i.imgs.fyi', 'constitution.com', 'i.reddituploads.com', 'youtu.be'}
+{'i.pinimg.com', 'pbs.twimg.com', 'jewsnews.co.il', 'i.imgs.fyi', 'puu.sh', 'google.de', 'scontent.fagc3-2.fna.fbcdn.net', 'i.reddituploads.com'}
+{'millennialreview.org', 'bernieforleader.com', 'streamable.com', 'berniesanders.com', 'reddit.com', 'facebook.com', 'millennial-review.com', 'kabc.com', 'fusion.kinja.com', 'upload.wikimedia.org', 'youtu.be'}
+{'static.guim.co.uk', 'pewtrusts.org', 'fusion.kinja.com', 'freethoughtblogs.com', 'jimheath.tv', 'bossip.com', 'youtu.be', 'thenation.com', 'truth-out.org'}
+{'bloom.bg', 'i.imgflip.com', 'reddit.com', 'abc7news.com', 'archive.is', 'andrewjanzforcongress.com', 'huffpost.com'}
+{'abc7.com', 'koaa.com', 'armytimes.com', '6abc.com', 'kvia.com', 'nbcsandiego.com', 'bigeasymagazine.com', 'reut.rs', 'dealbreaker.com', 'lakemchenryscanner.com', 'heraldnet.com', 'local10.com', 'wtvy.com', 'foxbusiness.com', 'ocala.com', 'wmcactionnews5.com', 'wearegreenbay.com', 'fox46charlotte.com', 'mixdexhq.com'}
+{'riotimesonline.com', 'thehackernews.com', 'newsbook.com.mt', 'avherald.com', 'newindianexpress.com', 'technode.com', 'en.yna.co.kr', 'iheart.com', 'oglobo.globo.com'}
+{'elle.com', 'wsws.org', 'thenation.com', 'speaker.gov', 'huffpost.com', 'lawandcrime.com', 'citizensforethics.org'}
+{'grassley.senate.gov', 'archive.fo', 'youtu.be'}
+{'afp.com', 'politico.eu', 'syrianews.cc', 'cbr.com', 'spectator.us', 'wsws.org', 'youtu.be', 'conspiracyinsights.com', 'livemint.com', 'grassley.senate.gov', 'radiichina.com', 'huffpost.com', 'truepublic.com', 'news-nw.com', 'citi.io', 'issafrica.org', 'us-russia.org'}
+{'geniusofpeace.org', 'gizmochina.com', 'fool.com', 'cleanenergywire.org', 'wvmetronews.com', 'english.cw.com.tw', 'on.mktw.net', 'mazech.com', 'pv-magazine.com', 'barrons.com', 'pymnts.com', 'news.crunchbase.com', 'scribd.com'}
+{'assets.aeaweb.org', 'newyorkfed.org', 'moneywise.com', 'bankofcanada.ca', 'fivebooks.com', 'utilitydive.com', 'e360.yale.edu', 'bild.de', 'energycentral.com', 'thelibertarianideal.com', 'microeconomicinsights.org'}
+{'peoplespartyofcanada.ca', 'worldstarhiphop.com', 'mazechmedia.com', 'techradar.com', 'google.com', 'explainlife.com', 'youtu.be', 'thefirearmblog.com', 'comparitech.com', 'np.reddit.com', 'rutherford.org', 'reddit.com', 'the-star.co.ke', 'lpny.org'}
+{'livekindly.com', 'christianheadlines.com', 'google.com', 'explainlife.com', 'actionnewsjax.com', 'whdh.com', 'abc7news.com', 'i.kym-cdn.com', 'iotwreport.com', 'issuesinsights.com', 'mrctv.org', 'wtnh.com', 'pagesix.com', 'israelnationalnews.com', 'thepolitics.online'}
+{'millennialreview.org', 'charlestoncitypaper.com', 'monstersandcritics.com', 'parrotingtheright.org', 'secure.actblue.com', 'google.com', 'youtu.be', 'sandersinstitute.com', 'blog.4president.org', 'globegazette.com', 'gfycat.com', 'ncsl.org', 'bernie.substack.com', 'changeresearch.com', 'news3lv.com', 'scribd.com'}
+{'bet.com'}
+{'youtu.be'}
